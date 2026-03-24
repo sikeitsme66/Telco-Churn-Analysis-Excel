@@ -66,7 +66,7 @@ This project is an end-to-end churn analysis of a telecom company using advanced
 
 ## 📁 Files Included
 - `data/` → Raw dataset (CSV)
-- `dashboard/` → Excel dashboard (protected)
+- `dashboard/` → Excel dashboard (download to view)
 - `report/` → Detailed Word report
 - `preview/` → Dashboard Screenshot
   
@@ -76,5 +76,5 @@ This project is an end-to-end churn analysis of a telecom company using advanced
 Faiza 
 
 ---
-
+> ⚠️ Note: Due to file size, GitHub cannot preview the Excel dashboard. Please download the file to view the full interactive dashboard.
 ⭐ If you like this project, feel free to star the repo!
