@@ -60,7 +60,7 @@ This project is an end-to-end churn analysis of a telecom company using advanced
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshot here)
+![Dashboard](preview/Dashboard_preview.png)
 
 ---
 
